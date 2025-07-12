@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+langchain>=0.3
+langchain-core
+langchain-community
+langchain-huggingface
+sentence-transformers
+pydantic>=2.0
+chromadb
+python-dotenv
